@@ -1,6 +1,6 @@
 ### 하위 타입은 그것의 기반 타입에 대해 치환 가능해야 한다.
 
-```java
+```c
 void drawShape(Shape &s) {
   if (s.itsType == Shape :: square)
     static_cast < const Square & > (s).draw();
