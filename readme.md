@@ -28,7 +28,14 @@
   - 17장_NULL OBJECT 패턴
   - 18장_급여 관리 사례 연구: 반복의 시작
   - 19장_급여 관리 사례 연구: 구현
+
 - 4절_급여 관리 시스템 패키징
   - 20장_패키지 설계의 원칙
   - 21장_FACTORY 패턴
   - 22장_급여 관리 사례 연구 (~2020.03.29)
+
+- 5절_기상 관측기 사례 연구
+  - 23장_COMPOSITE 패턴
+  - 24장_OBSERVER 패턴
+  - 25장_ABSTRACT SERVER, ADAPTER, BRIDGE 패턴
+  - 26장_PROXY와 STAIRWAY TO HEAVEN_서드파티 API 관리

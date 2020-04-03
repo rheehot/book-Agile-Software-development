@@ -65,4 +65,12 @@ public class Monostate {
 
 - 투명성 (MONOSTATE 객체의 사용자는 이 객체가 MONOSTATE 객체라는 것을 알 필요가 없다.)
 - 파생 가능성 (MONOSTATE 객체의 파생 클래스는 MONOSTATE이다.)
-- 다형성 ()
+- 다형성 (MONOSTATE의 메소드는 정적이 아니기 때문에 이 클래스의 파생 클래스는 다형성을 가질 수 있다.)
+- 잘 정의된 생성과 소멸
+
+### MONOSTATE의 비용
+
+- 변환 불가 (MONOSTATE가 아닌 클래스를 상속하여 MONOSTATE를 만들 수 없음)
+- 여러번의 생성과 소멸을 겪을 수 있는 만큼 비용을 수반한다.
+- MONOSTATE의 변수는 MONOSTATE가 사용되지 않는다고 해도 공간을 차지함.
+
