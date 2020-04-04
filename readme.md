@@ -2,7 +2,11 @@
 
 책 "소프트웨어 개발의 지혜: 원칙, 디자인 패턴, 실천방법 (로버트 C. 마틴)"의 내용을 요약하고 느낀점을 기록합니다.
 
+* 2004년에 출간된 본 책은 **클린 소프트웨어**라는 이름으로 2017년에 복간되기도 했습니다.
+
 ![image](https://github.com/BaekGeunYoung/book-Agile-Software-development/blob/master/images/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B0%9C%EB%B0%9C%EC%9D%98%EC%A7%80%ED%98%9C.jpg)
+
+![book2](./images/cleansoftware.jpg)
 
 - 1절_애자일 개발
   - 1장_애자일 실천방법
@@ -38,4 +42,4 @@
   - 23장_COMPOSITE 패턴
   - 24장_OBSERVER 패턴
   - 25장_ABSTRACT SERVER, ADAPTER, BRIDGE 패턴
-  - 26장_PROXY와 STAIRWAY TO HEAVEN_서드파티 API 관리
+  - 26장_PROXY와 STAIRWAY TO HEAVEN_서드파티 API 관리 (~2020.04.03)
